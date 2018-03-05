@@ -19,6 +19,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque deserunt ni
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit laborum possimus eum deleniti aut, molestias, quam dolor repellendus error facere odit consequatur assumenda incidunt tenetur explicabo sequi quod neque illum animi? Provident, perferendis?
 test
 
+dodanie komita
+
 <style>
   body {
     background: #CDCBCB;
