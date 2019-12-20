@@ -1,2 +1,0 @@
-# Piosenki
-Strona z tekstami

@@ -1,0 +1,39 @@
+{
+  "name": "best_of",
+  "version": "1.0.0",
+  "description": "Small app with songs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chesterxp@bitbucket.org/chesterxp/portfolio_v1.git"
+  },
+  "author": "chesterxp",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/chesterxp/portfolio_v1#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-rename": "^1.2.3",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "pump": "^3.0.0"
+  }
+}
